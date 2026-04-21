@@ -1,5 +1,5 @@
 # Lorelock-Online
-https://discord.gg/fA3HFwTyfK
+PLay Here: https://discord.gg/fA3HFwTyfK
 
 Lorelock Online is a persistent fantasy world simulation that runs inside Discord.
 
